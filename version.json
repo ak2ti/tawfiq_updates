@@ -1,5 +1,5 @@
 {
-  "version": "0.1.0",  <-- ВАЖНО: Должно совпадать с тем, что ты написал в pubspec.yaml
-  "url": "ВСТАВЬ_СЮДА_СКОПИРОВАННУЮ_ССЫЛКУ_НА_APK",
+  "version": "0.1.0",
+  "url": "https://github.com/ak2ti/tawfiq_updates/releases/download/0.1.0/Tawfiq_0.1.0.apk",
   "changes": "- Исправлен интерфейс на Windows\n- Улучшена центровка текста\n- Исправлен баг в Настройках"
 }
